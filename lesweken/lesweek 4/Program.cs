@@ -108,6 +108,42 @@ namespace lesweek_4
         else{
             Console.WriteLine("Het resultaat is fout");
         }
+
+//forloop
+        for(int teller = 0; teller < 11; teller++){
+            Console.WriteLine("De teller is nu: " + teller);
+        }
+
+        //Tafels van vermenigvuldiging 
+
+        for (int firstNum = 0; firstNum<11; firstNum++){
+            
+        Console.WriteLine(" De teller is nu " + firstNum);
+
+            for (int secondNum = 0; secondNum<11; secondNum++){
+                Console.WriteLine(firstNum + " x " + secondNum + " = " + firstNum * secondNum );
+            }
+        }
+
+        //do while
+
+        int getal =4;
+        do 
+        {
+            Console.WriteLine("De waarde van het getal is " + getal);
+            getal++;
+        }while(getal< 5);
+
+        int getal4 = 4;
+        while(getal4 <5)
+        {
+            Console.WriteLine("De waarde van het getal 4 is " + getal4);
+            getal4++;
+        }
+
+
+
+
         }
     static int optellen(int a,int b) {
         return a+b;
