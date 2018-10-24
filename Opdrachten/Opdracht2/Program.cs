@@ -8,6 +8,7 @@ namespace Opdracht2
         {
             fibonacci();
             faculteit();
+            vermenigvuldiging();
         }
 
 static void faculteit()
@@ -25,18 +26,33 @@ for( int b = 1; b < 16; b++){
  static void fibonacci()
         {
 
-    int d = 0;
-    int e = 1; 
+    int firstNum = 0;
+    int sum = 1; 
 
     for (int fibonacci=0; fibonacci <10; fibonacci++){
-        e = d + e;
+        sum = firstNum + sum;
 
-        Console.WriteLine(d);
-        Console.WriteLine(e);
-        d = d + e;
+        Console.WriteLine(firstNum);
+        Console.WriteLine(sum);
+        firstNum = firstNum + sum;
             }   
             
         }
+
+ //Tafels van vermenigvuldiging 
+
+ static void vermenigvuldiging()
+        {
+        for (int firstNum = 0; firstNum<11; firstNum++){
+            
+        Console.WriteLine(" De teller is nu " + firstNum);
+
+            for (int secondNum = 0; secondNum<11; secondNum++){
+                Console.WriteLine(firstNum + " x " + secondNum + " = " + firstNum * secondNum );
+            }
+        }
+        }
+
 }
 }
 
