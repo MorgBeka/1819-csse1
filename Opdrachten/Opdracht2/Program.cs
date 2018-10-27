@@ -45,10 +45,8 @@ for( int b = 1; b < 16; b++){
         {
         for (int firstNum = 0; firstNum<11; firstNum++){
             
-        Console.WriteLine(" De teller is nu " + firstNum);
-
             for (int secondNum = 0; secondNum<11; secondNum++){
-                Console.WriteLine(firstNum + " x " + secondNum + " = " + firstNum * secondNum );
+                Console.WriteLine(secondNum + " x " + firstNum + " = " + secondNum * firstNum );
             }
         }
         }
