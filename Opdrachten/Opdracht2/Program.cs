@@ -7,24 +7,32 @@ namespace Opdracht2
         static void Main(string[] args)
         {
             fibonacci();
-            faculteit();
-           Program program = new Program();
-           int tafelVan = Convert.ToInt32(Console.ReadLine());
-           program.Tafel(tafelVan);
+            
+
+        Program program = new Program();
+        Console.WriteLine("Geef je getal in waar je de vermenigvuldig van wilt ");
+        int tafelVan = Convert.ToInt32(Console.ReadLine());
+        program.Tafel(tafelVan);
+
+
+        Console.WriteLine("Geef je getal in waar je de faculteit van wilt ");
+           int getal1 = Convert.ToInt32(Console.ReadLine());
+           program.faculteit(getal1);
         }
 
-static void faculteit()
+//faculteit
+    void faculteit(int facNum)
         {
 
-int a = 1; 
-for( int b = 1; b < 16; b++){
-    int c = a * b;
-    a = c;
+            int a = 1; 
+            for( int b = 1; b < facNum+1; b++){
+                int c = a * b;
+                a = c;
+            }
+        Console.WriteLine("faculteit van natuurlijk getal is " + a);
+        }
 
-    Console.WriteLine("faculteit van natuurlijk getal is " + a);
-}
-    
-}
+//fibonacci
  static void fibonacci()
         {
 
