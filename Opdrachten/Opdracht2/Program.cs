@@ -8,7 +8,9 @@ namespace Opdracht2
         {
             fibonacci();
             faculteit();
-            vermenigvuldiging();
+           Program program = new Program();
+           int tafelVan = Convert.ToInt32(Console.ReadLine());
+           program.Tafel(tafelVan);
         }
 
 static void faculteit()
@@ -41,14 +43,14 @@ for( int b = 1; b < 16; b++){
 
  //Tafels van vermenigvuldiging 
 
- static void vermenigvuldiging()
+  void Tafel(int firstNum) 
         {
-        for (int firstNum = 0; firstNum<11; firstNum++){
+     //   for (int firstNum = 0; firstNum<11; firstNum++){
             
             for (int secondNum = 0; secondNum<11; secondNum++){
                 Console.WriteLine(secondNum + " x " + firstNum + " = " + secondNum * firstNum );
             }
-        }
+       // }
         }
 
 }
