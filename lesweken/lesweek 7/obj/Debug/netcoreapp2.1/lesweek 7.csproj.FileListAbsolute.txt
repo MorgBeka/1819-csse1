@@ -1,0 +1,11 @@
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/bin/Debug/netcoreapp2.1/lesweek 7.deps.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/bin/Debug/netcoreapp2.1/lesweek 7.runtimeconfig.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/bin/Debug/netcoreapp2.1/lesweek 7.runtimeconfig.dev.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/bin/Debug/netcoreapp2.1/lesweek 7.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/bin/Debug/netcoreapp2.1/lesweek 7.pdb
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/obj/Debug/netcoreapp2.1/lesweek 7.csprojAssemblyReference.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/obj/Debug/netcoreapp2.1/lesweek 7.csproj.CoreCompileInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/obj/Debug/netcoreapp2.1/lesweek 7.AssemblyInfoInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/obj/Debug/netcoreapp2.1/lesweek 7.AssemblyInfo.cs
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/obj/Debug/netcoreapp2.1/lesweek 7.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/lesweken/lesweek 7/obj/Debug/netcoreapp2.1/lesweek 7.pdb
