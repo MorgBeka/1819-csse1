@@ -1,0 +1,17 @@
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.deps.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.runtimeconfig.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.runtimeconfig.dev.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.pdb
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.csprojAssemblyReference.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.csproj.CoreCompileInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.AssemblyInfoInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.AssemblyInfo.cs
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.pdb
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel1/obj/Debug/netcoreapp2.1/Opdracht5.csprojAssemblyReference.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel1/obj/Debug/netcoreapp2.1/Opdracht5.csproj.CoreCompileInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel1/obj/Debug/netcoreapp2.1/Opdracht5.AssemblyInfoInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel1/obj/Debug/netcoreapp2.1/Opdracht5.AssemblyInfo.cs
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel1/obj/Debug/netcoreapp2.1/Opdracht5.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel1/obj/Debug/netcoreapp2.1/Opdracht5.pdb

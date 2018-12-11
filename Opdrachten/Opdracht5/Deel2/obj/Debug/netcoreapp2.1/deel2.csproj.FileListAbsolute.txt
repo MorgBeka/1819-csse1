@@ -1,0 +1,4 @@
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel2/obj/Debug/netcoreapp2.1/deel2.csprojAssemblyReference.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel2/obj/Debug/netcoreapp2.1/deel2.csproj.CoreCompileInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel2/obj/Debug/netcoreapp2.1/deel2.AssemblyInfoInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht5/Deel2/obj/Debug/netcoreapp2.1/deel2.AssemblyInfo.cs
