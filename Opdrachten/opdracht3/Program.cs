@@ -95,46 +95,15 @@ namespace opdracht3
 
     //verwijderen 
 
-WeergevenNamen(namen);
+    for (int i=0; i<6; i++){
+        Console.WriteLine("lijst van nog niet bediende klanten");
+        foreach(object obj in list){
+            Console.WriteLine(obj);
+        }
 
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-
-WeergevenNamen(namen);
-
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-
-WeergevenNamen(namen);
-
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-
-WeergevenNamen(namen);
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-
-WeergevenNamen(namen);
-
-Console.WriteLine("Dequeue)\t{0}", namen.Dequeue());
-
-
-Static void WeergevenNamen(Queue list)
-{   
-    if(list.count >= 1 )
-    {
-        Console.WriteLine("Lijst van niet bediende klanten");
-        foreach(Object obj in list)
-            Console.WriteLine("Item: {0}", obj);
-
+        list.Dequeue();
+        Console.WriteLine();
     }
-    else
-            Console.WriteLine("Geen namen meer");
-        
- 
-}
-
 
 
          }
