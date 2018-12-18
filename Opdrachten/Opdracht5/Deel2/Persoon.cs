@@ -1,7 +1,7 @@
 using System;
 namespace deel2
 {
-    public class Persoon : Gebruiker, Informatie
+    public class Persoon : Gebruiker, IInformatie
     {
         private string naam;
         private string voornaam;

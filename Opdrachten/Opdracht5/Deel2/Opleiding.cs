@@ -1,6 +1,6 @@
 namespace deel2
 {
-    public class Opleiding : AbstractInfo, AbstractDetail, Informatie
+    public class Opleiding : AbstractInfo, AbstractDetail, IInformatie
     {
         private string afkortingCampus;
         protected int campusNummer;
@@ -19,5 +19,14 @@ namespace deel2
             return "code";
         }
 
+        public Opleiding(){
+            this.afkortingCampus = this.campus.Substring(0,3);
+        }
+
+        public override void GeefInformatie(){
+
+        }
+
+        
     } 
 } 

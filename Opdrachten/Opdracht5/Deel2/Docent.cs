@@ -2,7 +2,7 @@ namespace deel2
 {
 
 
-    public class Docent
+    public class Docent:Persoon
     {
 
 
@@ -12,9 +12,10 @@ namespace deel2
             set;
         }
 
-        public string Opleidingen
+        public Opleiding Opleiding
         {
-            
+            get;
+            set;
         }
         
         public string GenereerWachtwoord(int input)
