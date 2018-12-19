@@ -1,0 +1,11 @@
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/bin/Debug/netcoreapp2.1/Deel3.deps.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/bin/Debug/netcoreapp2.1/Deel3.runtimeconfig.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/bin/Debug/netcoreapp2.1/Deel3.runtimeconfig.dev.json
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/bin/Debug/netcoreapp2.1/Deel3.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/bin/Debug/netcoreapp2.1/Deel3.pdb
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/Debug/netcoreapp2.1/Deel3.csprojAssemblyReference.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/Debug/netcoreapp2.1/Deel3.csproj.CoreCompileInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/Debug/netcoreapp2.1/Deel3.AssemblyInfoInputs.cache
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/Debug/netcoreapp2.1/Deel3.AssemblyInfo.cs
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/Debug/netcoreapp2.1/Deel3.dll
+/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/Debug/netcoreapp2.1/Deel3.pdb
