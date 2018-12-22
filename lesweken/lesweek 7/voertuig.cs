@@ -46,8 +46,10 @@ class Voertuig
     public Voertuig()
     {
 
-//uitlezen
+
     }
+    
+    //uitlezen
     public string ToString()
     {
         return "Voertuig met laadvermogen: " + this.laadvermogen + ", met kleur: " + this.Kleur;
