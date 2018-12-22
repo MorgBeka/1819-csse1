@@ -24,6 +24,10 @@ namespace AbstractFactory
              IVorm vormA = vormFactory.GetVorm("Cirkel");
              vormA.Teken();
 
+             VormFactory vormFactory = new VormFactory();
+             IVorm vormB = vormFactory.GetVorm("Vierkant");
+             vormB.Teken();
+
         }
 
     }
