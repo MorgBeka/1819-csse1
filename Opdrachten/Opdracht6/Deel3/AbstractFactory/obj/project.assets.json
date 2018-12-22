@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/AbstractFactory.csproj",
+      "projectUniqueName": "/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/AbstractFactory/AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/AbstractFactory.csproj",
+      "projectPath": "/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/AbstractFactory/AbstractFactory.csproj",
       "packagesPath": "/Users/morganebekaert/.nuget/packages/",
-      "outputPath": "/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/obj/",
+      "outputPath": "/Users/morganebekaert/Code/1819-csse1-morgbeka/Opdrachten/Opdracht6/Deel3/AbstractFactory/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

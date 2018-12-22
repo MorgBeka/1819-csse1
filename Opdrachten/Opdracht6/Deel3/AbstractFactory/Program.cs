@@ -23,6 +23,7 @@ namespace AbstractFactory
              VormFactory vormFactory = new VormFactory();
              IVorm vormA = vormFactory.GetVorm("Cirkel");
              vormA.Teken();
+
         }
 
     }
